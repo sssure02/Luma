@@ -1,4 +1,4 @@
-# Luma 
+# 💡Luma 
 **Making clarity accessible to everyone**
 
 Luma is a privacy-first Chrome extension that helps users understand and express social meaning in text.  
